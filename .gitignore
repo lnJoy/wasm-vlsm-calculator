@@ -1,0 +1,8 @@
+# build directories
+pkg/
+target/
+dist/
+build/
+
+# package directory
+node_modules/
